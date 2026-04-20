@@ -1,5 +1,5 @@
 # Relational-Music-Library
-# Relational Music Library Manager
+
 
 A specialized backend application designed to handle relational data within a music database. This project focuses on data normalization and the enforcement of database constraints to maintain a clean and reliable dataset.
 
